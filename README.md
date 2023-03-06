@@ -1,1 +1,1 @@
-git clone -b lean https://github.com/Super-member/openwrt-other package/lean
+git clone  https://github.com/Super-member/openwrt-other package/mtwifi
